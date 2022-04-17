@@ -1,0 +1,10 @@
+.tshirt {
+    height: 400px;
+    border: 2px solid lightgrey;
+    border-radius: 10px;
+}
+
+.tshirt img {
+    height: 250px;
+
+}

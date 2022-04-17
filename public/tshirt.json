@@ -1,0 +1,58 @@
+[
+  {
+    "_id": "625a7f3bead609d6f90ac156",
+    "index": 0,
+    "picture": "https://cdn.shopify.com/s/files/1/0266/6276/4597/products/300865964SAGE_2_1024x1024.jpg?v=1637582857",
+    "pricr": 14,
+    "name": "Anne Mcguire",
+    "gender": "female"
+  },
+  {
+    "_id": "625a7f3ba7d113a0ea493379",
+    "index": 1,
+    "picture": "https://cdn.shopify.com/s/files/1/0266/6276/4597/products/300865964DARK-PINK_2_1024x1024.jpg?v=1637582857",
+    "pricr": 25,
+    "name": "Olson Mcgee",
+    "gender": "male"
+  },
+  {
+    "_id": "625a7f3bc6ee1bce31cb300b",
+    "index": 2,
+    "picture": "https://cdn.shopify.com/s/files/1/0266/6276/4597/products/2050026631199_2_1024x1024.jpg?v=1637583135",
+    "pricr": 45,
+    "name": "Kelly Rollins",
+    "gender": "male"
+  },
+  {
+    "_id": "625a7f3bd369269d43642ec5",
+    "index": 3,
+    "picture": "https://cdn.shopify.com/s/files/1/0266/6276/4597/products/100001_300875207_093_2_1024x1024.jpg?v=1640198208",
+    "pricr": 85,
+    "name": "Patti Dodson",
+    "gender": "female"
+  },
+  {
+    "_id": "625a7f3bd74cdcd9be673df0",
+    "index": 4,
+    "picture": "https://cdn.shopify.com/s/files/1/0266/6276/4597/products/300865964SAGE_1_1024x1024.jpg?v=1637582857",
+    "pricr": 26,
+    "name": "Stephanie Knight",
+    "gender": "female"
+  },
+  {
+    "_id": "625a7f3b45808e527bfb0a7e",
+    "index": 5,
+    "picture": "https://cdn.shopify.com/s/files/1/0266/6276/4597/products/300865964INDIGO_2_1024x1024.jpg?v=1637582855",
+    "pricr": 49,
+    "name": "Carroll Washington",
+    "gender": "male"
+  },
+  {
+    "_id": "625a7f3b45808e527bfb0a75",
+    "index": 6,
+    "picture": "https://cdn.shopify.com/s/files/1/0266/6276/4597/products/100001_300887109_095_2_1024x1024.jpg?v=1645091393",
+    "pricr": 9,
+    "name": "Washington",
+    "gender": "male"
+  }
+]
